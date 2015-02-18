@@ -64,5 +64,10 @@ public class PrimitiveTypes {
 
         System.out.println(octal + " " + hex + " " + binary + " " + negative_binary);
 
+
+        long xx = 5;
+        long yy = (xx=3);
+        System.out.println(yy); // Outputs 3
+
     }
 }

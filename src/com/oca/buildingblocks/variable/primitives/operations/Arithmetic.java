@@ -48,11 +48,11 @@ public class Arithmetic {
         int unary = ++u * 5 / u-- + --u;
         //int y = 4 * 5 / 4 + 2;
 
-        {
-            long x = 10;
-            int y = 5;
-            y *= x;
-        }
+
+        long xx = 10;
+        int yy = 5;
+        yy *= xx; // compiler will automatically cast the resulting value to the data type of the value on the left-hand side of the compound operator
+
 
     }
 

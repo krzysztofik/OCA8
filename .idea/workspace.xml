@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5893af7-e685-4353-95a9-04d2319c3243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/oca/buildingblocks/objects/destruction/GarbageCollection.java" afterPath="$PROJECT_DIR$/src/com/oca/buildingblocks/objects/destruction/GarbageCollection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/InstanceAndClass.java" afterPath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/InstanceAndClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OCA8.iml" afterPath="$PROJECT_DIR$/OCA8.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java" afterPath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java" afterPath="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OCA8.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstanceAndClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InstanceAndClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/InstanceAndClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35952064" vertical-offset="0" max-vertical-offset="751">
-              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,18 +96,18 @@
       <file leaf-file-name="Arithmetic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="293" max-vertical-offset="1170">
-              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="383" max-vertical-offset="1170">
+              <caret line="53" column="142" selection-start-line="53" selection-start-column="142" selection-end-line="53" selection-end-column="142" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimitiveTypes.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PrimitiveTypes.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="401" max-vertical-offset="1332">
-              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.90412784" vertical-offset="527" max-vertical-offset="1422">
+              <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -135,9 +131,9 @@
         <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/InstanceInitializationOrder.java" />
         <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/Local.java" />
         <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/objects/destruction/GarbageCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java" />
-        <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java" />
         <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/InstanceAndClass.java" />
+        <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java" />
+        <option value="$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java" />
       </list>
     </option>
   </component>
@@ -869,22 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="401" max-vertical-offset="1332">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="293" max-vertical-offset="1170">
-          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/objects/destruction/GarbageCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
@@ -913,8 +893,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/initialization/InstanceAndClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35952064" vertical-offset="0" max-vertical-offset="751">
-          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/operations/Arithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="383" max-vertical-offset="1170">
+          <caret line="53" column="142" selection-start-line="53" selection-start-column="142" selection-end-line="53" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oca/buildingblocks/variable/primitives/PrimitiveTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.90412784" vertical-offset="527" max-vertical-offset="1422">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
           <folding />
         </state>
       </provider>
