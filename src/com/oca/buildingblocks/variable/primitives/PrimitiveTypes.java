@@ -7,6 +7,10 @@ public class PrimitiveTypes {
     // when you're "converting" from int to byte, you're just truncating the bytes
     // when you're converting from double to float, you're making a complex not trivial operation, which can't be implicit
 
+    //Java will automatically promote from smaller to larger data types
+    //but it will throw a compiler exception if it detects
+    //you are trying to convert from larger to smaller data types.
+
 
     public static void main(String[] args) throws NoSuchFieldException {
 
@@ -14,6 +18,13 @@ public class PrimitiveTypes {
         // compilation would fail due to integer number too large
         // need to tell compilator to treat literal as long
         long x = 3_333_333_333L;
+
+        /*
+            int x = 1.0; // DOES NOT COMPILE
+            short y = 1921222; // DOES NOT COMPILE
+            int z = 9f; // DOES NOT COMPILE
+            long t = 192301398193810323; // DOES NOT COMPILE
+        */
 
         //it works thanks to the compile-time narrowing of constants
         byte y = 3;
@@ -30,6 +41,8 @@ public class PrimitiveTypes {
         //will not compile, default float literal is double
 
         float b = 3.9F; //now it will compile. This conversion can lose precision, but also lose range.
+
+        int bb = (int)1.0;
 
         float c = 3.999_999F;
         System.out.println(c);
