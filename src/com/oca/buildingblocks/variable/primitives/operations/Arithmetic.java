@@ -31,11 +31,7 @@ public class Arithmetic {
         double z = 30;
         double xyz = x * y / z; //gives double
 
-        byte i = 127;
-        byte ii = ++i; //remain byte
 
-        //int x = !5; // DOES NOT COMPILE
-        //boolean y = -true; // DOES NOT COMPILE
 
         int counter = 0;
         System.out.println(counter); // Outputs 0
@@ -44,15 +40,9 @@ public class Arithmetic {
         System.out.println(counter--); // Outputs 1
         System.out.println(counter); // Outputs 0
 
-        int u = 3;
-        int unary = ++u * 5 / u-- + --u;
-        //int y = 4 * 5 / 4 + 2;
-
-
         long xx = 10;
         int yy = 5;
         yy *= xx; // compiler will automatically cast the resulting value to the data type of the value on the left-hand side of the compound operator
-
 
     }
 

@@ -1,7 +1,7 @@
-package com.oca.buildingblocks.variable.initialization;
+package com.oca.buildingblocks.variable.scopes;
 
 
-public class InstanceAndClass {
+public class Shadowing {
 
     public static void main(String[] args) {
         int x = 2;
