@@ -1,0 +1,16 @@
+.idea
+.gradle
+build
+out
+logs
+*.out
+*.iml
+*.zip
+*.log
+classes
+ajcore.*.txt
+*.iws
+*.ipr
+application-production.properties
+*.ids
+.vagrant
